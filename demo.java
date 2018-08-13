@@ -2,8 +2,9 @@ class bank trans
 {
    p void main()
     {
+      sum =a+b;
       ........
-       s.o.p("hello");
+       s.o.p("hello how are you";
     }
 }
 {
