@@ -1,0 +1,11 @@
+p void main()
+    {
+      ........
+       s.o.p("hello");
+    }
+}
+public void main()
+     {
+     int a,b,c;
+       }
+          
