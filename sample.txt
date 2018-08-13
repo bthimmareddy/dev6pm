@@ -1,7 +1,13 @@
-p void main()
+public void main()
     {
       ........
-       s.o.p("hello");
+       s.o.p(".o.p("hello");
+    }
+}
+public void main()
+     {
+     int a,b,c;
+       }ello");
     }
 }
 public void main()
