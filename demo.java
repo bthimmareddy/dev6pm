@@ -1,8 +1,11 @@
 class bank trans
-{
-   p void main()
+um =a+b;
+      ........
+       s.o.p("hello how are you";
+    }
+void main()
     {
-      sum =a+b;
+      sub=a+b;
       ........
        s.o.p("hello how are you";
     }
